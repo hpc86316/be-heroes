@@ -41,6 +41,10 @@ a{
 	text-decoration: none;
 	color: #000;
 }
+li{
+	text-decoration: none;
+
+}
 .elements{
 	background-color: rgba(0,0,0,0.5);
 	border: 1px solid #fff;
@@ -271,6 +275,21 @@ a{
 		min-height: 30vh;
 	}
 }
+/*------------------------
+/* $WhatOn
+--------------------------*/
+.whaton__tittle .tittleword{
+	text-align: center;
+    font-size: 35px;
+    color: #4D4D4D;
+    margin: 0 0 0 0;
+    padding-top: 30px; 
+    padding-bottom: 30px;
+}
+.whaton .whaton__item{
+	text-align: center;
+}
+
 /*------------------------
 /* $Thumbnail
 --------------------------*/
