@@ -285,10 +285,14 @@ li{
     margin: 0 0 0 0;
     padding-top: 30px; 
     padding-bottom: 30px;
+    width: 100%
 }
 .whaton .whaton__item{
 	text-align: center;
 	margin-top: 25px;
+}
+.whaton .whaton__item img{
+	width: 100%
 }
 .whaton .whaton__item p{
     font-size: 20px;
