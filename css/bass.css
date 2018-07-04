@@ -23,7 +23,7 @@
 /*------------------------*/
 /* $Font import
 --------------------------*/
-@import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 
 /*------------------------*/
 /* $Reset
@@ -513,7 +513,7 @@ template {
 /* $Typography
 --------------------------*/
 html, body{
-font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
 font-size: 14px;
 font-weight: 400;
 line-height: 20px;
@@ -528,7 +528,7 @@ h1, h2, h3, h4, h5, h6, p {
   * Styles for HTML elements
   */
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 56px;
   font-weight: 400;
   line-height: 1.35;
@@ -538,7 +538,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 
 h1 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 56px;
   font-weight: 400;
   line-height: 1.35;
@@ -548,7 +548,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 45px;
   font-weight: 400;
   line-height: 48px;
@@ -557,7 +557,7 @@ h2 {
 }
 
 h3 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 34px;
   font-weight: 400;
   line-height: 40px;
@@ -566,7 +566,7 @@ h3 {
  }
 
 h4 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 32px;
@@ -576,7 +576,7 @@ h4 {
 }
 
 h5 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1;
@@ -586,7 +586,7 @@ h5 {
 }
 
 h6 {
-  font-family: "Roboto", "Helvetica", "Noto Sans TC", "Arial", sans-serif;
+  font-family: "Roboto", "Helvetica", "Noto Sans", "Arial", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
